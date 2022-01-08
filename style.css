@@ -1,0 +1,17 @@
+html{
+    background-color: bisque;
+}
+
+h1{
+    color: blue;
+}
+#map{
+    width: 800px;
+    height: 600px;
+}
+
+#YahooLogo{
+    padding-top: 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
