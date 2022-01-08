@@ -22,13 +22,21 @@
 
 1. トップ画面は以下のようになっています。
 
-1. 「検索対象を指定してください」と書かれたプルダウンメニューをクリックして、検索したいレストランを選びます。
+![Top](https://github.com/BraveDragon/NearestMac/blob/main/Main_1.png)
 
-1. 検索対象を指定したら、「現在位置を取得して検索」ボタンを押してください。
+2. 「検索対象を指定してください」と書かれたプルダウンメニューをクリックして、検索したいレストランを選びます。
+
+![Top2](https://github.com/BraveDragon/NearestMac/blob/main/Main_2.png)
+
+3. 検索対象を指定したら、「現在位置を取得して検索」ボタンを押してください。
+
+![Permission](https://github.com/BraveDragon/NearestMac/blob/main/Permission.png)
 
 以上のようなメッセージが表示された場合は「許可」をクリックしてください。
 
 4. 実行すると店名・住所・徒歩での所要時間と地図が表示されます。
+
+![Result1](https://github.com/BraveDragon/NearestMac/blob/main/Result_1.png)
 
 青いマーカーが現在地です。クリックすると「現在地」と表示されます。
 オレンジのマーカーが検索対象です。クリックすると地図上部に表示されている検索結果と同様のメッセージが表示されます。地図の上でマウスホイールを奥に回すとズームイン、手前に回すとズームアウトできます。
