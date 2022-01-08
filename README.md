@@ -20,7 +20,7 @@
 
 ## プロジェクトのビルド方法
 
-「HowtoBuild.md」をご確認ください。
+「[HowtoBuild.md](https://github.com/BraveDragon/NearestMac/blob/main/HowtoBuild.md)」をご確認ください。
 
 ## 使い方
 
