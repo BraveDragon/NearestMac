@@ -31,7 +31,7 @@ const app = new Vue({
 
 
 function GETYahooRequest(keyword, lon, lat){
-   const RequestURL = "https://map.yahooapis.jp/search/local/V1/localSearch?appid=dj00aiZpPWVkMVppTjFWYnYwMyZzPWNvbnN1bWVyc2VjcmV0Jng9MWU-&query="
+   const RequestURL = "https://map.yahooapis.jp/search/local/V1/localSearch?appid=(アプリケーションID)&query="
                       +keyword+"&dist=20&sort=geo&lon="+String(lon)+"&lat="+String(lat)+"&output=json&callback=createMap";
    const scriptTag = document.getElementById("Request");
    scriptTag.src = RequestURL;
